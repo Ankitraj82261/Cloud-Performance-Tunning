@@ -63,4 +63,4 @@ jobs:
           app-name: 'parksyn'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_96A39FA49AF54BB8B015D0351384A286 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7C975B1E58584AD69FE7269333233F73 }}
